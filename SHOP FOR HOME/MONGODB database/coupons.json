@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "62caab50b42ff7edbfbe10ab"
+  },
+  "code": "SHOP50",
+  "type": "flat",
+  "discount": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62caab7ab42ff7edbfbe10b4"
+  },
+  "code": "FIRST10",
+  "type": "flat",
+  "discount": 4000,
+  "__v": 0
+}]

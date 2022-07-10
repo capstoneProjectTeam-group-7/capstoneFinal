@@ -1,0 +1,487 @@
+[{
+  "_id": {
+    "$oid": "62c54146bc4c3f10aa64a219"
+  },
+  "name": "Miranda 2 Seater Sofa In Light Grey Colour",
+  "description": "Brand\r\nWoodsworth\r\nDimensions(In Inches)\r\nH 35.5 x W 61 x D 35.5; Seating Height-18; Seating Depth - 22.5\r\nWeight\r\n43 KG\r\nWarranty\r\n36 Months' Warranty\r\nAssembly\r\nCarpenter Assembly\r\nPrimary Material\r\nFabric\r\nRoom Type\r\nLiving Room\r\nCollection\r\nMiranda\r\nSeating Height\r\n18\r\nProduct Rating\r\n4\r\nDimensions (In Centimeters)\r\nH 91.44 x W 154.94 x D 91.44\r\nSku\r\nFM1745603-S-WH32517",
+  "price": 12000,
+  "ratings": 5,
+  "images": [
+    {
+      "public_id": "products/uan3fiwqtmd579lwj5wt",
+      "url": "https://res.cloudinary.com/ujjawal2000/image/upload/v1657094471/products/uan3fiwqtmd579lwj5wt.webp",
+      "_id": {
+        "$oid": "62c54146bc4c3f10aa64a21a"
+      }
+    }
+  ],
+  "category": "Sofa",
+  "Stock": 7,
+  "numOfReviews": 1,
+  "user": {
+    "$oid": "62c5358afbcbc035edeceebe"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "62c5358afbcbc035edeceebe"
+      },
+      "name": "Ujjawal Rawat",
+      "rating": 5,
+      "comment": "",
+      "_id": {
+        "$oid": "62c54d9fc93a3fd04753a4d8"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657094470562"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "62c541e6bc4c3f10aa64a22d"
+  },
+  "name": "Miranda 1 Seater Sofa In Navy Blue Colour",
+  "description": "\r\nBrand\r\nWoodsworth\r\nDimensions(In Inches)\r\nH 35.5 x W 38 x D 35.5; Seating Height-18; Seating Depth - 22.5\r\n(all dimensions in inches)\r\nWeight\r\n31 KG\r\nWarranty\r\n36 Months' Warranty\r\nAssembly\r\nCarpenter Assembly\r\nPrimary Material\r\nFabric\r\nRoom Type\r\nLiving Room\r\nCollection\r\nMiranda\r\nSeating Height\r\n18\r\nProduct Rating\r\n4.5\r\nDimensions (In Centimeters)\r\nH 91.44 x W 96.52 x D 91.44\r\nSku\r\nFM1745593-S-WH32517",
+  "price": 7000,
+  "ratings": 5,
+  "images": [
+    {
+      "public_id": "products/fhi1mh30ffxuobgq9ans",
+      "url": "https://res.cloudinary.com/ujjawal2000/image/upload/v1657094631/products/fhi1mh30ffxuobgq9ans.webp",
+      "_id": {
+        "$oid": "62c541e6bc4c3f10aa64a22e"
+      }
+    }
+  ],
+  "category": "Sofa",
+  "Stock": 7,
+  "numOfReviews": 1,
+  "user": {
+    "$oid": "62c5358afbcbc035edeceebe"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "62c5358afbcbc035edeceebe"
+      },
+      "name": "Ujjawal Rawat",
+      "rating": 5,
+      "comment": "nyc",
+      "_id": {
+        "$oid": "62cac3de17d4be0e0804c886"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657094630773"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "62c54293bc4c3f10aa64a237"
+  },
+  "name": "Yume King Size Bed With Storage In Regato White Colour",
+  "description": "\r\nBrand\r\nMintwud\r\nDimensions(In Inches)\r\nH 39.4 x W 74.8 x D 86; Mattress Size :78 L x 72 W Inch (Mattress Not Included)\r\nWeight\r\n145 KG\r\nColour\r\nWalnut\r\nWarranty\r\n36 Months' Warranty\r\nAssembly\r\nCarpenter Assembly\r\nPrimary Material\r\nEngineered Wood\r\nRoom Type\r\nBedroom\r\nStorage\r\nBox Storage\r\nSeating Height\r\n11\r\nRecommended Mattress Size\r\n78 L x 72 W Inch\r\nProduct Rating\r\n5\r\nDimensions (In Centimeters)\r\nH 100.07 x W 189.99 x D 218.44\r\nSku\r\nFN1842814-S-WH29737",
+  "price": 20000,
+  "ratings": 3,
+  "images": [
+    {
+      "public_id": "products/jtym6jjiqhyb6yyuadyl",
+      "url": "https://res.cloudinary.com/ujjawal2000/image/upload/v1657094804/products/jtym6jjiqhyb6yyuadyl.webp",
+      "_id": {
+        "$oid": "62c54293bc4c3f10aa64a238"
+      }
+    }
+  ],
+  "category": "Beds and Mattresses",
+  "Stock": 6,
+  "numOfReviews": 1,
+  "user": {
+    "$oid": "62c5358afbcbc035edeceebe"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "62c5358afbcbc035edeceebe"
+      },
+      "name": "Ujjawal Rawat",
+      "rating": 3,
+      "comment": "",
+      "_id": {
+        "$oid": "62c54dc3c93a3fd04753a4fa"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657094803514"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "62c54305bc4c3f10aa64a241"
+  },
+  "name": "White colour with pink colour design 300 TC Cotton Double Bedsheet With 2 Pillow Covers Collection",
+  "description": "\r\nBrand\r\nJaipur Fabric\r\nColour\r\nPeach\r\nDimensions(In Inches)\r\nBedsheet - L 108 x W 108 : Pillow Covers - L 28 x W 18\r\nSet Content\r\n1 Bedsheet with 2 Pillow Covers\r\nFabric\r\nCotton\r\nThread Count\r\n300\r\nWeight\r\n1.25 Kg\r\nDimensions (In Centimeters)\r\nBedsheet - L 274 x W 274 : Pillow Covers - L 108 x W 108\r\nFitted Bedsheet\r\nNo\r\nSku\r\nFU1983770-S-PM22518",
+  "price": 4000,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/vn3pds4vtspcloxye7xf",
+      "url": "https://res.cloudinary.com/ujjawal2000/image/upload/v1657094919/products/vn3pds4vtspcloxye7xf.jpg",
+      "_id": {
+        "$oid": "62c54305bc4c3f10aa64a242"
+      }
+    }
+  ],
+  "category": "Beds and Mattresses",
+  "Stock": 0,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "62c5358afbcbc035edeceebe"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657094917984"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c54363bc4c3f10aa64a24b"
+  },
+  "name": "Black Glazed 300ml (Set of 6) Coffee Mug",
+  "description": "\r\nBrand\r\nThe Decor Mart\r\nColour\r\nBlack\r\nDimensions(in inches)\r\nH 3.9 x W 4.7 x D 3.5\r\nAssembly\r\nNo Assembly Required\r\nMaterial\r\nCeramic\r\nMicrowave Safe\r\nYes\r\nDishwasher Safe\r\nNo\r\nWeight\r\n0.3 Kg\r\nPack Content\r\n6 Coffee Mug / Cups\r\nCapacity\r\n300ml\r\nProduct Rating\r\n2.5\r\nDimensions (In Centimeters)\r\nMug- L 11.9 x B 8.9 x H 9.9\r\nSku\r\nDE1951036-S-PM36095",
+  "price": 1000,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/seni67yqnwehyegri97g",
+      "url": "https://res.cloudinary.com/ujjawal2000/image/upload/v1657095012/products/seni67yqnwehyegri97g.jpg",
+      "_id": {
+        "$oid": "62c54363bc4c3f10aa64a24c"
+      }
+    }
+  ],
+  "category": "Dinning",
+  "Stock": 5,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "62c5358afbcbc035edeceebe"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657095011617"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c543cebc4c3f10aa64a255"
+  },
+  "name": "Ebony Black 7 Inch (Set of 4) Ceramic Quarter Plate   By Vareesha",
+  "description": "\r\nBrand\r\nVareesha\r\nColour\r\nBlack\r\nDimensions(in inches)\r\nDia 7 x H 1\r\nMaterial\r\nCeramic\r\nDishwasher Safe\r\nYes\r\nWeight\r\n0.9 Kg\r\nPack Content\r\n4 Quarter Plates\r\nMicrowave Safe\r\nYes\r\nPlate Size\r\nMedium Plate\r\nDimensions (In Centimeters)\r\nDia 17.8 x H 2.5\r\nSku\r\nDE1960148-S-PM24908",
+  "price": 600,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/frtwn4whfig8xm2wb6e3",
+      "url": "https://res.cloudinary.com/ujjawal2000/image/upload/v1657095119/products/frtwn4whfig8xm2wb6e3.jpg",
+      "_id": {
+        "$oid": "62c543cebc4c3f10aa64a256"
+      }
+    }
+  ],
+  "category": "Dinning",
+  "Stock": 5,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "62c5358afbcbc035edeceebe"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657095118595"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c54431bc4c3f10aa64a25f"
+  },
+  "name": "Florito Solid Wood Book Shelf in Brown Colour",
+  "description": "\r\nBrand\r\nWoodenMood\r\nAssembly\r\nSelf Assembly\r\nMaterial\r\nMango Wood\r\nDimensions\r\nLength: 29, Width; 10, Height: 12\r\nWeight\r\n7\r\nColour\r\nBrown\r\nPack Content\r\nTemplate Sheet & Mounting Bracket\r\nNumber of Shelves\r\n3\r\nProduct Rating\r\n4.5\r\nDimensions (In Centimeters)\r\nLength: 73.66, Width: 25.40, Height: 30.48\r\nSku\r\nFM1677532-S-PM31959",
+  "price": 3000,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/hfwxmqg66vfs1sqybcyz",
+      "url": "https://res.cloudinary.com/ujjawal2000/image/upload/v1657095218/products/hfwxmqg66vfs1sqybcyz.webp",
+      "_id": {
+        "$oid": "62c54431bc4c3f10aa64a260"
+      }
+    }
+  ],
+  "category": "Wall Accents",
+  "Stock": 4,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "62c5358afbcbc035edeceebe"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657095217790"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c5448cbc4c3f10aa64a269"
+  },
+  "name": "Sian Golden Abstract Gold Mild Steel Decorative Wall Mirror",
+  "description": "\r\nBrand\r\nHome4U\r\nAssembly\r\nSelf Assembly\r\nMaterial\r\nMild Steel\r\nDimensions\r\nH 24.8 x W 9.8 x D 1.2\r\nWeight\r\n3.6 Kgs\r\nColour\r\nGold\r\nPack Content\r\n1 Mirror\r\nDimensions (In Centimeters)\r\nL 24.9 x B 63\r\nShape\r\nAbstract\r\nSku\r\nDE1984338-S-PM38299",
+  "price": 3000,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/oeeo88i2lhxve5ge5wje",
+      "url": "https://res.cloudinary.com/ujjawal2000/image/upload/v1657095309/products/oeeo88i2lhxve5ge5wje.webp",
+      "_id": {
+        "$oid": "62c5448cbc4c3f10aa64a26a"
+      }
+    }
+  ],
+  "category": "Decor",
+  "Stock": 10,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "62c5358afbcbc035edeceebe"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657095308857"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c544cbbc4c3f10aa64a273"
+  },
+  "name": "Line Metal Wall Clock (1X1ft)   By WallCentre",
+  "description": "\r\nBrand\r\nWallCentre\r\nAssembly\r\nSelf Assembly\r\nMaterial\r\nMetal\r\nDimensions\r\nLength: 12, Width: 0.2, Height: 12\r\nWeight\r\n990 Grams\r\nColour\r\nBlack\r\nPack Content\r\n1 Wall Clock\r\nDisplay\r\nAnalog\r\nShape\r\nRound\r\nBattery Included\r\nYes\r\nWarranty\r\nNo warranty\r\nAlarm\r\nNo\r\nProduct Rating\r\n4\r\nDimensions (In Centimeters)\r\nLength: 30.48, Width: 0.51, Height: 30.48\r\nSku\r\nDE1888243-S-PM35382",
+  "price": 4000,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/c2pnsblg613lbnxqenwl",
+      "url": "https://res.cloudinary.com/ujjawal2000/image/upload/v1657095370/products/c2pnsblg613lbnxqenwl.jpg",
+      "_id": {
+        "$oid": "62c544cbbc4c3f10aa64a274"
+      }
+    }
+  ],
+  "category": "Decor",
+  "Stock": 6,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "62c5358afbcbc035edeceebe"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657095371191"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c5452abc4c3f10aa64a27d"
+  },
+  "name": "Calus Ray Smart Wifi Rgb Ledstrip",
+  "description": "\r\nBrand\r\nCalus\r\nWarranty\r\n6 Months' Warranty\r\nAssembly\r\nSelf Assembly\r\nPack Content\r\nrgb led strip, Wifi smart controller , Adapter\r\nDimensions\r\n5 meter\r\nWeight\r\n200 Grams\r\nSmart Devices Supported\r\nAlexa, Google assistant , Siri , Bixby\r\nUser Interface\r\nMobile app , Voice control,Apple smart watch\r\nWifi Required\r\nYes\r\nNumber Of Units Controlled\r\nMultiple\r\nSku\r\nLL1915508-S-PM36926",
+  "price": 2000,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/vibtqvzvwutcpxr5etqh",
+      "url": "https://res.cloudinary.com/ujjawal2000/image/upload/v1657095467/products/vibtqvzvwutcpxr5etqh.jpg",
+      "_id": {
+        "$oid": "62c5452abc4c3f10aa64a27e"
+      }
+    }
+  ],
+  "category": "Lighting",
+  "Stock": 10,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "62c5358afbcbc035edeceebe"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657095466719"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c54562bc4c3f10aa64a287"
+  },
+  "name": "White Stainless Steel Wall Light   By Korvel",
+  "description": "\r\nBrand\r\nKorvel\r\nWarranty\r\n12 Months' Warranty\r\nAssembly\r\nSelf Assembly\r\nPack Content\r\n1 Wall Light\r\nDimensions\r\n13inches (L) x3inches(B)x2inches(H)\r\nHolder & Plug type\r\nInbuilt LED\r\nBulb Recommended\r\n18 Watts\r\nSwitch type\r\nNo Switch\r\nWeight\r\n850 Grams\r\nMaterial\r\nStainless Steel\r\nColour\r\nWhite\r\nBulb Included\r\nYes\r\nNo. of lights\r\n1\r\nProduct Rating\r\n5\r\nSku\r\nLL1903221-S-PM28915",
+  "price": 4500,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/zj3swlakhiuampedwsqv",
+      "url": "https://res.cloudinary.com/ujjawal2000/image/upload/v1657095523/products/zj3swlakhiuampedwsqv.jpg",
+      "_id": {
+        "$oid": "62c54562bc4c3f10aa64a288"
+      }
+    }
+  ],
+  "category": "Lighting",
+  "Stock": 6,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "62c5358afbcbc035edeceebe"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657095522829"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c545d4bc4c3f10aa64a291"
+  },
+  "name": "Geometric Pattern Microfibre 6 X 2 Feet Machine Made Hallway Runner",
+  "description": "\r\nBrand\r\nSaral Home\r\nColour\r\nBlue\r\nDimensions(In Inches)\r\nL 71 x W 18\r\nSet Content\r\n1 Hallway Runner\r\nMaterial\r\nMicrofibre\r\nWeight\r\n1 Kg\r\nCrafting Technique\r\nMachine Made\r\nProduct Rating\r\n4.5\r\nDimensions (In Centimeters)\r\nL 180 x W 45\r\nSku\r\nFU1850444-S-PM32470",
+  "price": 600,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/cexrupbbfzbxzdy2jrde",
+      "url": "https://res.cloudinary.com/ujjawal2000/image/upload/v1657095637/products/cexrupbbfzbxzdy2jrde.webp",
+      "_id": {
+        "$oid": "62c545d4bc4c3f10aa64a292"
+      }
+    }
+  ],
+  "category": "Carpets",
+  "Stock": 4,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "62c5358afbcbc035edeceebe"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657095636660"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c5467109012cffb8e09bc6"
+  },
+  "name": "Agronomo Cantilever Chair in Black Colour   By DZYN Furnitures",
+  "description": "Brand\r\nDZYN Furnitures\r\nDimensions(In Inches)\r\nH 35 x W 21 x D 19\r\nWeight\r\n9 KG\r\nWarranty\r\n6 Months' Warranty\r\nAssembly\r\nNo Assembly Required\r\nPrimary Material\r\nBreathable Mesh\r\nRoom Type\r\nOffice Furniture\r\nSeating Height\r\n19\r\nProduct Rating\r\n3.5\r\nDimensions (In Centimeters)\r\nH 88.9 x W 53.3 x D 48.3\r\nSku\r\nFN1900572-S-PM35171",
+  "price": 5000,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/f9ocsmfqtrfy2bqgpcsu",
+      "url": "https://res.cloudinary.com/ujjawal2000/image/upload/v1657095794/products/f9ocsmfqtrfy2bqgpcsu.webp",
+      "_id": {
+        "$oid": "62c5467109012cffb8e09bc7"
+      }
+    }
+  ],
+  "category": "Table and Chair",
+  "Stock": 7,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "62c5358afbcbc035edeceebe"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657095793481"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c546c709012cffb8e09bd0"
+  },
+  "name": "Anitz Solid Wood Coffee Table In Honey Oak Finish",
+  "description": "Brand\r\nWoodsworth\r\nDimensions(In Inches)\r\nH 16 x W 42 x D 24\r\nWeight\r\n44 KG\r\nColour\r\nHoney Oak\r\nWarranty\r\n36 Months' Warranty\r\nAssembly\r\nNo Assembly Required\r\nPrimary Material\r\nSheesham Wood\r\nRoom Type\r\nLiving Room\r\nCollection\r\nAnitz\r\nTop Material\r\nSolid Wood\r\nProduct Rating\r\n4.5\r\nDimensions (In Centimeters)\r\nH 40.64 x W 106.68 x D 60.96\r\nSku\r\nFM1744144-P-WH35490",
+  "price": 6000,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/rzxmfdynkcssvzyc2mef",
+      "url": "https://res.cloudinary.com/ujjawal2000/image/upload/v1657095880/products/rzxmfdynkcssvzyc2mef.jpg",
+      "_id": {
+        "$oid": "62c546c709012cffb8e09bd1"
+      }
+    }
+  ],
+  "category": "Table and Chair",
+  "Stock": 5,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "62c5358afbcbc035edeceebe"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657095879972"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c5471109012cffb8e09bda"
+  },
+  "name": "Genji Study Table In Columbia Walnut Finish",
+  "description": "\r\nBrand\r\nMintwud\r\nDimensions(In Inches)\r\nH 29.5 x W 39.3 x D 17.3,Writing Board:- W 39.3 x D 17.3\r\nWeight\r\n18 KG\r\nColour\r\nWenge\r\nWarranty\r\n12 Months' Warranty\r\nAssembly\r\nCarpenter Assembly\r\nPrimary Material\r\nEngineered Wood\r\nRoom Type\r\nStudy Room\r\nProduct Rating\r\n5\r\nDimensions (In Centimeters)\r\nH 76.2 x W 99.06 x D 43.18\r\nSku\r\nFN1760543-P-WH5046",
+  "price": 5000,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/wquload367onna1h2r5y",
+      "url": "https://res.cloudinary.com/ujjawal2000/image/upload/v1657095954/products/wquload367onna1h2r5y.webp",
+      "_id": {
+        "$oid": "62c5471109012cffb8e09bdb"
+      }
+    }
+  ],
+  "category": "Table and Chair",
+  "Stock": 4,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "62c5358afbcbc035edeceebe"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657095953738"
+    }
+  },
+  "__v": 0
+}]

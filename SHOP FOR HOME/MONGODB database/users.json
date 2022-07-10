@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "62c5358afbcbc035edeceebe"
+  },
+  "name": "Ujjawal Rawat",
+  "email": "ujjwalrawat2000@gmail.com",
+  "password": "$2a$10$jP4.XWs0Ji/bMx/EUs/Vz.sbHKiRjTB/PQqn9y1bZdJok2puTg9S6",
+  "avatar": {
+    "public_id": "avatars/mp0qbgjoy5bp6yyddtcc",
+    "url": "https://res.cloudinary.com/ujjawal2000/image/upload/v1657091467/avatars/mp0qbgjoy5bp6yyddtcc.jpg"
+  },
+  "role": "admin",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657091466373"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62caabebb42ff7edbfbe10bc"
+  },
+  "name": "Anuprash",
+  "email": "anuprashgupta2000@gmail.com",
+  "password": "$2a$10$a4epFP3cJIahkPxHAA4uKe/zj4U3W.7gMVR8nPLX4RyxDVP7N54TK",
+  "avatar": {
+    "public_id": "avatars/oaa5hyq1lvg7erroexl0",
+    "url": "https://res.cloudinary.com/ujjawal2000/image/upload/v1657449452/avatars/oaa5hyq1lvg7erroexl0.png"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657449451517"
+    }
+  },
+  "__v": 0
+}]
