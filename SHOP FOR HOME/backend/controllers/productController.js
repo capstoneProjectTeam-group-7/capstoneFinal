@@ -59,7 +59,9 @@ const createProduct = catchAsyncErrors(async (req, res, next) => {
 const getAllProducts = catchAsyncErrors(async (req, res) => {
   const resultPerPage = 8;
   const productsCount = await Product.countDocuments();
-  const apiFeature = new ApiFeatures(Product.find(), req.query).search().filter();
+  const apiFeature = new ApiFeatures(Product.find(), req.query)
+    .search()
+    .filter();
 
   let product = await apiFeature.query;
 
@@ -185,11 +187,14 @@ const createProductReview = catchAsyncErrors(async (req, res, next) => {
 
   const product = await Product.findById(productId);
 
-  const isReviewed = product.reviews.find((rev) => rev.user.toString() === req.user._id.toString());
+  const isReviewed = product.reviews.find(
+    (rev) => rev.user.toString() === req.user._id.toString()
+  );
 
   if (isReviewed) {
     product.reviews.forEach((rev) => {
-      if (rev.user.toString() === req.user._id.toString()) (rev.rating = rating), (rev.comment = comment);
+      if (rev.user.toString() === req.user._id.toString())
+        (rev.rating = rating), (rev.comment = comment);
     });
   } else {
     product.reviews.push(review);
@@ -233,7 +238,9 @@ const deleteReview = catchAsyncErrors(async (req, res, next) => {
     return next(new ErrorHandler("Product not found", 404));
   }
 
-  const reviews = product.reviews.filter((rev) => rev._id.toString() !== req.query.id.toString());
+  const reviews = product.reviews.filter(
+    (rev) => rev._id.toString() !== req.query.id.toString()
+  );
 
   let avg = 0;
   reviews.forEach((rev) => {
@@ -270,7 +277,6 @@ const deleteReview = catchAsyncErrors(async (req, res, next) => {
 
 // Delete Review
 const bulkUpload = catchAsyncErrors(async (req, res, next) => {
-  
   if (!req.files || !req.files.csv) {
     return next(new ErrorHandler("No file uploaded", 400));
   }

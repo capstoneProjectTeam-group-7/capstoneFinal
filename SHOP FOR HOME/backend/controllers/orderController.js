@@ -5,7 +5,15 @@ const catchAsyncErrors = require("../middleware/catchAsyncErrors");
 const sendEmail = require("../utils/sendEmail");
 
 const newOrder = catchAsyncErrors(async (req, res, next) => {
-  const { shippingInfo, orderItems, paymentInfo, itemPrice, taxPrice, shippingPrice, totalPrice } = req.body;
+  const {
+    shippingInfo,
+    orderItems,
+    paymentInfo,
+    itemPrice,
+    taxPrice,
+    shippingPrice,
+    totalPrice,
+  } = req.body;
 
   const order = await Order.create({
     shippingInfo,
@@ -27,7 +35,10 @@ const newOrder = catchAsyncErrors(async (req, res, next) => {
 
 // GET single Order
 const getSingleOrder = catchAsyncErrors(async (req, res, next) => {
-  const order = await Order.findById(req.params.id).populate("user", "name email");
+  const order = await Order.findById(req.params.id).populate(
+    "user",
+    "name email"
+  );
 
   if (!order) {
     return next(new ErrorHandler("Order not found with this Id", 404));

@@ -23,7 +23,9 @@ const mongoose = require("mongoose");
 // GET single Coupon by id or code
 const getSingleCoupon = catchAsyncErrors(async (req, res, next) => {
   const isId = mongoose.isValidObjectId(req.params.id);
-  const query = isId ? { _id: req.params.id } : { code: req.params.id.toUpperCase() };
+  const query = isId
+    ? { _id: req.params.id }
+    : { code: req.params.id.toUpperCase() };
   const coupon = await Coupon.findOne(query);
 
   if (!coupon) {

@@ -88,7 +88,9 @@ const forgotPassword = catchAsyncErrors(async (req, res, next) => {
   const resetToken = await user.getResetPasswordToken();
   await user.save({ validateBeforeSave: false });
 
-  const resetPasswordUrl = `${req.protocol}://${req.get("host")}/password/reset/${resetToken}`;
+  const resetPasswordUrl = `${req.protocol}://${req.get(
+    "host"
+  )}/password/reset/${resetToken}`;
 
   const message = `Your Password reset Token is :- \n\n ${resetPasswordUrl} \n\n if you have not requested this email then Please Ignore it.`;
 
@@ -113,7 +115,10 @@ const forgotPassword = catchAsyncErrors(async (req, res, next) => {
 // Reset Password
 const resetPassword = catchAsyncErrors(async (req, res, next) => {
   // Creating Hash for token
-  const resetPasswordToken = crypto.createHash("sha256").update(req.params.token).digest("hex");
+  const resetPasswordToken = crypto
+    .createHash("sha256")
+    .update(req.params.token)
+    .digest("hex");
 
   const user = await User.findOne({
     resetPasswordToken,
@@ -121,7 +126,12 @@ const resetPassword = catchAsyncErrors(async (req, res, next) => {
   });
 
   if (!user) {
-    return next(new ErrorHandler("Reset Password Token is invalid or has been expired", 400));
+    return next(
+      new ErrorHandler(
+        "Reset Password Token is invalid or has been expired",
+        400
+      )
+    );
   }
 
   if (req.body.password !== req.body.confirmPassword) {
@@ -216,7 +226,9 @@ const getSingleUser = catchAsyncErrors(async (req, res, next) => {
   const user = await User.findById(req.params.id);
 
   if (!user) {
-    return next(new ErrorHandler(`User does not exists with ID: ${req.params.id}`));
+    return next(
+      new ErrorHandler(`User does not exists with ID: ${req.params.id}`)
+    );
   }
 
   res.status(200).json({
@@ -251,7 +263,9 @@ const deleteUser = catchAsyncErrors(async (req, res, next) => {
   // remove cloudinary
 
   if (!user) {
-    return next(new ErrorHandler(`User does not exist with Id: ${req.params.id}`));
+    return next(
+      new ErrorHandler(`User does not exist with Id: ${req.params.id}`)
+    );
   }
 
   const imageId = user.avatar.public_id;
